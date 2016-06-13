@@ -1,0 +1,22 @@
+{
+  "name": "ng-img-preload",
+  "description": "Angular directives for preloading images and showing a placeholder image/gif until load is finished",
+  "main": "ng-img-preload.js",
+  "authors": [
+    "Amund Øgar Meisal <amundmeisal@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/amumei/ng-img-preload",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "jquery": "^3.0.0"
+  }
+}
